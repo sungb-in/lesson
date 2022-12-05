@@ -1,2 +1,3 @@
-# lecture
-lecture page
+# lesson
+
+lesson page
